@@ -1,0 +1,21 @@
+.item {
+  width: 60%;
+  display: inline-block;
+  margin-top: 2.5em;
+}
+
+.detail {
+  width: 85%;
+  float: right;
+  text-align: left;
+  color: #000000;
+  font-size: 1.2em;
+  margin: 0.2em;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+  width: 70;
+  color: #bc412b;
+  float: left;
+}
