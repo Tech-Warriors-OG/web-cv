@@ -1,0 +1,26 @@
+{
+  "/": {
+    "js": [
+      "umi.js",
+      "layouts__index.async.js",
+      "p__index.async.js"
+    ],
+    "css": [
+      "umi.css",
+      "layouts__index.chunk.css",
+      "p__index.chunk.css"
+    ]
+  },
+  "/phuoc-doan": {
+    "js": [
+      "umi.js",
+      "layouts__index.async.js",
+      "p__PhuocDoanProfile__index.async.js"
+    ],
+    "css": [
+      "umi.css",
+      "layouts__index.chunk.css",
+      "p__PhuocDoanProfile__index.chunk.css"
+    ]
+  }
+}
