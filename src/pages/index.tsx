@@ -3,7 +3,6 @@ import ItemSingle from '@/component/ItemSingle';
 import React from 'react';
 import styles from './index.css';
 import { Profile } from './profile.data/TechWarriors';
-import { router } from 'umi';
 export default function() {
   return (
     <div className={styles.root}>
