@@ -4,6 +4,7 @@ import styles from './index.css';
 const BasicLayout: React.FC = props => {
   return (
     <div className={styles.normal}>
+      <link rel="shortcut icon" type="image/x-icon" href="../assets/favicon.ico" />
       <h1 className={styles.title}>Tech Warriors</h1>
       <p className={styles.description}>Mobie Application, Website, And everything you need... </p>
       <p className={styles.mail}>

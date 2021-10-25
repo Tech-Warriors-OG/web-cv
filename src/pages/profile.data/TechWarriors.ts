@@ -73,7 +73,7 @@ export const Profile: Array<ItemSingleT | ItemMultipleT> = [
                 desText: "Các thành viên của chúng tôi đã có nhiều kinh nghiệm trong lĩnh vực số hóa, xây dựng các hệ thống thông tin, ứng dụng, website doanh nghiệp. Key member:",
                 refLinks: [
                     { title: "TL: Đ.H.Phước,", navLink: "/phuoc-doan" },
-                    { title: "Technician: N.H.Khánh,", navLink: "/phuoc-doan" },
+                    { title: "Key Member: N.H.Khánh,", navLink: "/phuoc-doan" },
                     { title: "N.Q.Huy,", navLink: "/phuoc-doan" },
                     { title: "N.Q.Hưng,", navLink: "/phuoc-doan" },
                     { title: "and more", navLink: "#" },

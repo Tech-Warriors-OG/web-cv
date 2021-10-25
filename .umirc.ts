@@ -3,7 +3,8 @@ import { IConfig } from 'umi-types';
 // ref: https://umijs.org/config/
 const config: IConfig = {
   treeShaking: true,
-  ssr: {},
+  publicPath: "/static/",
+  base: "/web-cv/",
   routes: [
     {
       path: '/',
@@ -32,7 +33,7 @@ const config: IConfig = {
           /services\//,
           /model\.(t|j)sx?$/,
           /service\.(t|j)sx?$/,
-          /components\//,
+          /components\//
         ],
       },
     }],
