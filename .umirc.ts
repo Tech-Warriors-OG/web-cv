@@ -3,7 +3,7 @@ import { IConfig } from 'umi-types';
 // ref: https://umijs.org/config/
 const config: IConfig = {
   treeShaking: true,
-  publicPath: "/static/",
+  publicPath: "/web-cv/",
   base: "/web-cv/",
   routes: [
     {
