@@ -3,7 +3,7 @@ import { ItemSingleT } from "@/component/ItemSingle";
 
 export const Profile: Array<ItemSingleT | ItemMultipleT> = [
     {
-        title: "About we",
+        title: "About us",
         content: "Chúng tôi là một Team về công nghệ, có khả năng xây dựng các hệ thống thông tin phục vụ bán hàng, quản trị doanh nghiệp, nhận diện thương hiệu, và tất cả mọi thứ doanh nghiệp của bạn cần!"
 
     },
